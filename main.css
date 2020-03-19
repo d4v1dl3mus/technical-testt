@@ -27,6 +27,14 @@
     float: left;
 }
 
+.icon-hand{
+    margin-top: -2rem;
+    margin-left: 17rem;
+    height: 4rem;
+    position: relative;
+    float: left;
+}
+
 .icon-cow {
     height: 6rem;
     float: left;
